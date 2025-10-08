@@ -1,0 +1,1 @@
+import{V as e}from"./VBtn-D_Q5b5Au.js";import{c as o,o as r}from"./index-BwB7Pykj.js";const _={__name:"index",setup(t){return(a,c)=>(r(),o(e,{to:"/BuscadorPelis",text:"Cercador Pelis"}))}};export{_ as default};
